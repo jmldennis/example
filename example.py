@@ -2,7 +2,7 @@
 
 #This is my main function
 def main():
-    print("This is the development branch")
+    print("This has been merged")
 
 #Run main if python script is main script
 if __name__ == "__main__":
